@@ -1,1 +1,1 @@
-# Random-Quote-Generator
+This is a simple project that fetches a random motivational quote or piece of life advice from online APIs and lets you interact with it. You can save your favorite quotes to a file. It’s a handy tool for getting a quick dose of inspiration and building your own collection of meaningful quotes.
